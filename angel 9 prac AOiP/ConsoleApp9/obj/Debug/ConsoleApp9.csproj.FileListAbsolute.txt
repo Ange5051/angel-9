@@ -1,0 +1,14 @@
+D:\ОАиП (С#)\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+D:\ОАиП (С#)\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+D:\ОАиП (С#)\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+D:\ОАиП (С#)\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+D:\ОАиП (С#)\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+D:\ОАиП (С#)\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+D:\ОАиП (С#)\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
+C:\Users\sasam\Downloads\Practical-work 9_de289322-5d17-4f44-aaa4-328f6555767f\ConsoleApp9\bin\Debug\ConsoleApp9.exe.config
+C:\Users\sasam\Downloads\Practical-work 9_de289322-5d17-4f44-aaa4-328f6555767f\ConsoleApp9\bin\Debug\ConsoleApp9.exe
+C:\Users\sasam\Downloads\Practical-work 9_de289322-5d17-4f44-aaa4-328f6555767f\ConsoleApp9\bin\Debug\ConsoleApp9.pdb
+C:\Users\sasam\Downloads\Practical-work 9_de289322-5d17-4f44-aaa4-328f6555767f\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.AssemblyReference.cache
+C:\Users\sasam\Downloads\Practical-work 9_de289322-5d17-4f44-aaa4-328f6555767f\ConsoleApp9\obj\Debug\ConsoleApp9.csproj.CoreCompileInputs.cache
+C:\Users\sasam\Downloads\Practical-work 9_de289322-5d17-4f44-aaa4-328f6555767f\ConsoleApp9\obj\Debug\ConsoleApp9.exe
+C:\Users\sasam\Downloads\Practical-work 9_de289322-5d17-4f44-aaa4-328f6555767f\ConsoleApp9\obj\Debug\ConsoleApp9.pdb
